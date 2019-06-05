@@ -8,7 +8,7 @@
                    v-model="value"
             />
             <button type="button" class="ml-auto btn btn-default btn-primary mt-3" @click="switchVisibility(field.name)">
-                Show/Hide
+                Afficher / Cacher
             </button>
         </template>
     </default-field>
